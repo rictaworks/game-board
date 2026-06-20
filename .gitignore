@@ -1,0 +1,14 @@
+# 追跡対象外（CLAUDE.md / README.md / SPEC/ 以外）
+.agents/
+.claude/
+AGENTS.md
+game-whiteboard-mvp-spec.md
+
+# 環境変数
+.env
+.env.*
+!.env.example
+
+# Claude Code 個人設定
+CLAUDE.local.md
+.claude/settings.local.json

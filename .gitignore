@@ -4,6 +4,14 @@
 AGENTS.md
 game-whiteboard-mvp-spec.md
 
+# 管理ディレクトリ
+TASKS/
+DEBUG/
+CLIENT/
+WORK/
+ENV/
+DELETE/
+
 # 環境変数
 .env
 .env.*
